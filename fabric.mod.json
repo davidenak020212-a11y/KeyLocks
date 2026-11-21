@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "keylocks",
+  "version": "${version}",
+  "name": "KeyLocks",
+  "description": "Ten colored keys and locks for Minecraft doors.",
+  "authors": ["ChatGPT"],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": { "main": ["com.example.keylocks.KeyLocks"] },
+  "mixins": ["keylocks.mixins.json"],
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "minecraft": "1.21.1",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}

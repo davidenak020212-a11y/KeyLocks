@@ -1,0 +1,23 @@
+{
+  "item.keylocks.blue_key": "Blue Key",
+  "item.keylocks.blue_lock": "Blue Lock",
+  "item.keylocks.red_key": "Red Key",
+  "item.keylocks.red_lock": "Red Lock",
+  "item.keylocks.green_key": "Green Key",
+  "item.keylocks.green_lock": "Green Lock",
+  "item.keylocks.yellow_key": "Yellow Key",
+  "item.keylocks.yellow_lock": "Yellow Lock",
+  "item.keylocks.purple_key": "Purple Key",
+  "item.keylocks.purple_lock": "Purple Lock",
+  "item.keylocks.white_key": "White Key",
+  "item.keylocks.white_lock": "White Lock",
+  "item.keylocks.black_key": "Black Key",
+  "item.keylocks.black_lock": "Black Lock",
+  "item.keylocks.orange_key": "Orange Key",
+  "item.keylocks.orange_lock": "Orange Lock",
+  "item.keylocks.cyan_key": "Cyan Key",
+  "item.keylocks.cyan_lock": "Cyan Lock",
+  "item.keylocks.pink_key": "Pink Key",
+  "item.keylocks.pink_lock": "Pink Lock",
+  "item.keylocks.lock_remover": "Lock Remover"
+}

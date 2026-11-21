@@ -1,0 +1,6 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [ "III", "IDI", " I " ],
+  "key": { "I": { "item": "minecraft:iron_ingot" }, "D": { "tag": "minecraft:pink_dyes" } },
+  "result": { "id": "keylocks:pink_lock", "count": 1 }
+}

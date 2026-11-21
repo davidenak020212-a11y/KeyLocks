@@ -1,0 +1,5 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [ { "item": "minecraft:iron_ingot" }, { "item": "minecraft:iron_nugget" }, { "tag": "minecraft:blue_dyes" } ],
+  "result": { "id": "keylocks:blue_key", "count": 1 }
+}

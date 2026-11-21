@@ -1,0 +1,23 @@
+{
+  "item.keylocks.blue_key": "Синий ключ",
+  "item.keylocks.blue_lock": "Синий замок",
+  "item.keylocks.red_key": "Красный ключ",
+  "item.keylocks.red_lock": "Красный замок",
+  "item.keylocks.green_key": "Зелёный ключ",
+  "item.keylocks.green_lock": "Зелёный замок",
+  "item.keylocks.yellow_key": "Жёлтый ключ",
+  "item.keylocks.yellow_lock": "Жёлтый замок",
+  "item.keylocks.purple_key": "Фиолетовый ключ",
+  "item.keylocks.purple_lock": "Фиолетовый замок",
+  "item.keylocks.white_key": "Белый ключ",
+  "item.keylocks.white_lock": "Белый замок",
+  "item.keylocks.black_key": "Чёрный ключ",
+  "item.keylocks.black_lock": "Чёрный замок",
+  "item.keylocks.orange_key": "Оранжевый ключ",
+  "item.keylocks.orange_lock": "Оранжевый замок",
+  "item.keylocks.cyan_key": "Бирюзовый ключ",
+  "item.keylocks.cyan_lock": "Бирюзовый замок",
+  "item.keylocks.pink_key": "Розовый ключ",
+  "item.keylocks.pink_lock": "Розовый замок",
+  "item.keylocks.lock_remover": "Съёмник замков"
+}
